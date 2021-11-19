@@ -1,0 +1,3 @@
+[console_scripts]
+amzqr = amzqr.terminal:main
+
